@@ -7,49 +7,17 @@
 ### Example
 
 #### From
-<br>
-<br>
+
 <img src="https://dacod.co.za/images/sheets2json.png" alt="sheets2json.png"/>
 <br>
-<br>
 TO
-<br>
 <br>
 
 #### TO
 
-`
-[
-	{
-		name: "Dacod",
-		age: "24",
-		country_of_birth: "South Africa"
-	},
-	{
-		name: "Nkosinathi",
-		age: "22",
-		country_of_birth: "Zimbabwe"
-	},
-	{
-		name: "Musa",
-		age: "34",
-		country_of_birth: "South Africa"
-	},
-	{
-		name: "Angel",
-		age: "33",
-		country_of_birth: "Algeria"
-	},
-	{
-		name: "Mfana",
-		age: "25",
-		country_of_birth: "eSwatini"
-	}
-]`
-
+<img src="https://dacod.co.za/images/sheets2json.png" alt="json4romSheet.png"/>
 <br>
 <br>
-
 
 ### How to Use
 
