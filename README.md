@@ -4,18 +4,15 @@
 <p>It can be used flexibly to parse any GoogleSheet if you pass a googlesheet ID as a parameter value (eg. index.php?sheetId=xxxx) or simply to parse one Google Sheet with the sheetId specified in the code in index.php .</p>
 <p>You can also just copy the code in index.php and translate into any language of your choice.</p>
 
-### Example
+### Example:
 
 #### From
 
 <img src="https://dacod.co.za/images/sheets2json.png" alt="sheets2json.png"/>
-<br>
-TO
-<br>
 
 #### TO
 
-<img src="https://dacod.co.za/images/sheets2json.png" alt="json4romSheet.png"/>
+<img src="https://dacod.co.za/images/json4romSheet.png" alt="json4romSheet.png"/>
 <br>
 <br>
 
