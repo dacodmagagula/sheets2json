@@ -31,5 +31,5 @@
 
 ### License
 
-You can use this code however you like (see LISENSE).
+You can use this code however you like (see LICENSE).
 
