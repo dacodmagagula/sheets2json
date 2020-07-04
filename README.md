@@ -29,7 +29,7 @@
 
 4. Paste Sheet ID in `index.php` or pass it as a parameter via the URL `index.php?sheetId=xxxx`
 
-### Lisese
+### License
 
 You can use this code however you like (see LISENSE).
 
